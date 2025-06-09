@@ -59,6 +59,11 @@ Applications: This tool has wide-ranging applications across industries and prof
 
 The Speech-to-Text Transcription App is a Python-based desktop application that transforms spoken words into text using Google’s Speech Recognition API. Designed with a user-friendly tkinter GUI, it allows users to record audio, view live transcriptions, and optionally auto-save the results with timestamps. The app also features dark/light mode switching, error handling, and multithreaded processing to ensure a responsive and smooth user experience.
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ad159c3b-709b-4b2c-86a0-fc6dbb82d3db)
+
+![Image](https://github.com/user-attachments/assets/34c5f490-ceef-41dd-803c-9f75654ab904)
 
 
 
